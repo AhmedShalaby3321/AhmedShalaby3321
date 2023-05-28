@@ -1,6 +1,6 @@
 ![Banner](./HollowKnight.gif )
 
-Hi, I'm Ahmed and I'm a senior unity developer | unity tool developer | shader artist in the making. 
+<h2>Hi, I'm Ahmed and I'm a senior unity developer | unity tool developer | shader artist in the making. </h2>
 
 I am someone who has an innate passion for learning how to make stuff look cool and telling stories through video games.
 
