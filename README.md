@@ -1,4 +1,4 @@
-![Banner](./Me.png)
+![Banner](./HollowKnight.gif)
 
 Hi, I'm Ahmed and I'm a senior unity developer | unity tool developer | shader artist in the making. 
 
