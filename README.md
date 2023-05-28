@@ -9,7 +9,7 @@ I have over 5 years of work experience developing and maintaining a wide variety
 I love to learn about shaders, computer graphics, and procedural animations.
 
 💬 Now:
-- Full time nity Developer at Tarboosh Games | Voodoo 
+- Full time unity Developer at Tarboosh Games | Voodoo 
 - In my free time, I am focused on learning to be a shader wizard and a Unity tool developer.
 
 </br>
